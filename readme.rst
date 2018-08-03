@@ -4,7 +4,7 @@ What is CodeIgniter & Full Calendar
 
 See Below screenshot.
 
-.. image:: ../../screenshot.png
+.. image:: https://github.com/Dhavalkoradiya/Fullcalender-Codeigniter/blob/master/screenshot.png
 
 CodeIgniter is an Application Development Framework - a toolkit - for people
 who build web sites using PHP. Its goal is to enable you to develop projects
