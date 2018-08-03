@@ -30,3 +30,8 @@ of the CodeIgniter User Guide.
 Full Calender Library
 ************
 `https://fullcalendar.io/ <https://fullcalendar.io/>`_
+
+************
+Connect with me
+***********
+https://www.linkedin.com/in/dhavalkoradiya/
