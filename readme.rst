@@ -1,8 +1,6 @@
 ###################
-What is CodeIgniter & Full Calendar
+Full Calendar + CodeIgniter
 ###################
-
-CodeIgniter + Full Calendar
 
 A Complete Solution with add event, update event, drag event, change event, delete event.
 
